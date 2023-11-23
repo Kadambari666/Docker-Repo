@@ -1,0 +1,1 @@
+To keep the console window open after execution, you can add a statement to wait for user input before the program exits. You can use Scanner to achieve this. Here's an updated version of your code:
